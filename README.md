@@ -22,7 +22,7 @@ Users should be able to:
 
 ![](./screenshot.png)
 
-click [here]() to see the preview
+click [here](https://shybit0.github.io/socials-link-profile-fem/) to see the preview
 
 ## My process
 
