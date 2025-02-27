@@ -31,3 +31,4 @@ click [here](https://shybit0.github.io/socials-link-profile-fem/) to see the pre
 - Semantic HTML5 markup
 - CSS custom properties
 - Flex
+- Bootstrap
