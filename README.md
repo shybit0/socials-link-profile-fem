@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](images/screenshot.png)
 
 click [here](https://shybit0.github.io/socials-link-profile-fem/) to see the preview
 
